@@ -14,7 +14,7 @@ SOAR playbooks — with a focus on cutting noise and closing the gap between
 "alert fired" and "threat contained."
 
 **Currently:** Senior Cybersecurity Engineer, running SIEM/SOAR/threat-intel
-operations for a national digital health platform.
+operations for a large enterprise environment.
 
 **Platforms:** Cortex XSIAM / XSOAR / XDR · IBM QRadar · IBM Guardium ·
 Tenable Security Center · f5 WAF
