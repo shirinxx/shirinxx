@@ -23,9 +23,13 @@ operations for a large enterprise environment.
 ![Network/Firewall](https://img.shields.io/badge/Network%20%2F%20Firewall-1a73e8?style=flat)
 ![Security Awareness](https://img.shields.io/badge/Security%20Awareness-1a73e8?style=flat)
 
-**Certified:** Palo Alto Networks Certified XSIAM Engineer · Palo Alto
-Networks Certified XSOAR Engineer · Blue Team Level 1 (BTL1) · CompTIA
-Security+ · AWS Certified Cloud Practitioner
+**Certified**
+
+- Palo Alto Networks Certified XSIAM Engineer
+- Palo Alto Networks Certified XSOAR Engineer
+- Blue Team Level 1 (BTL1)
+- CompTIA Security+
+- AWS Certified Cloud Practitioner
 
 ### What I've shipped
 
