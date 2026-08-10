@@ -18,10 +18,14 @@ operations for a large enterprise environment.
 
 **Platforms**
 
-![SIEM/XDR/SOAR](https://img.shields.io/badge/SIEM%20%2F%20XDR%20%2F%20SOAR-1a73e8?style=flat)
-![Vuln Mgmt & Data Sec](https://img.shields.io/badge/Vuln%20Mgmt%20%26%20Data%20Sec-1a73e8?style=flat)
+![SIEM/XDR](https://img.shields.io/badge/SIEM%20%2F%20XDR-1a73e8?style=flat)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-1a73e8?style=flat)
+![SOAR/Automation](https://img.shields.io/badge/SOAR%20%2F%20Automation-1a73e8?style=flat)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability%20Management-1a73e8?style=flat)
+![Data Security](https://img.shields.io/badge/Data%20Security-1a73e8?style=flat)
 ![Network/Firewall](https://img.shields.io/badge/Network%20%2F%20Firewall-1a73e8?style=flat)
 ![Security Awareness](https://img.shields.io/badge/Security%20Awareness-1a73e8?style=flat)
+![Scripting/Automation](https://img.shields.io/badge/Scripting%20%2F%20Automation-1a73e8?style=flat)
 
 **Certified**
 
