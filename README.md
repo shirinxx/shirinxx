@@ -16,8 +16,12 @@ SOAR playbooks — with a focus on cutting noise and closing the gap between
 **Currently:** Senior Cybersecurity Engineer, running SIEM/SOAR/threat-intel
 operations for a large enterprise environment.
 
-**Platforms:** Cortex XSIAM / XSOAR / XDR · IBM QRadar · IBM Guardium ·
-Tenable Security Center · f5 WAF
+**Platforms**
+
+![SIEM/XDR/SOAR](https://img.shields.io/badge/SIEM%20%2F%20XDR%20%2F%20SOAR-1a73e8?style=flat)
+![Vuln Mgmt & Data Sec](https://img.shields.io/badge/Vuln%20Mgmt%20%26%20Data%20Sec-1a73e8?style=flat)
+![Network/Firewall](https://img.shields.io/badge/Network%20%2F%20Firewall-1a73e8?style=flat)
+![Security Awareness](https://img.shields.io/badge/Security%20Awareness-1a73e8?style=flat)
 
 **Certified:** Palo Alto Networks Certified XSIAM Engineer · Palo Alto
 Networks Certified XSOAR Engineer · Blue Team Level 1 (BTL1) · CompTIA
